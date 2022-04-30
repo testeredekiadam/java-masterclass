@@ -1,0 +1,43 @@
+Main Server:
+			constructor throws exception
+			Open ServerSocket
+			
+			infinite loop 
+				Socket accept
+				ServerThread
+				Thread
+				start the thread
+				
+			
+			client counter
+			
+			
+			main method
+			try-catch
+			
+			
+Server Thread implements runnable:
+			constructor
+			
+			run
+				try
+					get client number
+					I/O Buffers
+					get message and operate
+					
+					close socket
+				catch
+				
+				
+Client:
+			constructor throws exception
+				Socket connection
+				I/O stream
+				get message and operate
+				
+				close socket
+				
+			main
+			try-catch
+				
+				
